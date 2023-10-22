@@ -12,6 +12,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Alex Meng",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "is", "awesome" ]
 
 }
